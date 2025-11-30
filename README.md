@@ -37,7 +37,7 @@ src/test/java/
 | API Type | Endpoint | Status |
 |---|---|---|
 | GET  | `/api/users?page=2` | ✔ |
-| POST | `/api/users`        | ✔ |
+| POST | `/api/users`        | 🔜 |
 | PUT  | `/api/users/2`      | 🔜 |
 | DELETE | `/api/users/2`    | 🔜 |
 
